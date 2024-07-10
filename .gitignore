@@ -1,0 +1,9 @@
+# Ignore Python __pycache__ directories
+webcrawler/__pycache__
+webcrawler/spiders/__pycache__
+
+# Ignore virtual environment
+venv/
+
+# Ignore CSV output files (generated during scraping)
+*.csv

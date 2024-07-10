@@ -7,7 +7,6 @@ Web crawler using Scrapy to extract URLs and titles from a website, and then use
 1. **Clone the Repository:**
    ```
    git clone https://github.com/kartik-syal/web-data-extractor.git
-   cd your-repo/
    ```
 
 2. **Install Dependencies:**
